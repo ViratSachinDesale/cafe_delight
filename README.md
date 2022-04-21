@@ -8,7 +8,7 @@
 ###### Other Azure Technologies:- HTML,CSS,JAVASCRIPT,BOOTSTRAP,VS-Code
 
 
-working link of the web app: https://github.com/ViratSachinDesale
+working link of the web app: https://happy-beach-0c2a25110.1.azurestaticapps.net
 
 images of working website:
 ![Screenshot (47)](https://user-images.githubusercontent.com/74585280/164434430-6f7ec729-f248-4063-a54e-981d1729d9f0.png)
